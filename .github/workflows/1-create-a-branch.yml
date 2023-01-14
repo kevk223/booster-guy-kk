@@ -1,6 +1,7 @@
 name: Step 1, Create a branch
 
-# This step listens for the learner to create branch `my-first-branch`
+# This step listens for the learner to create branch `my-first-branch`defaults:
+  
 # This step sets STEP to 2
 # This step closes <details id=1> and opens <details id=2>
 
